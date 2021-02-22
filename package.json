@@ -14,8 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^7.1.0",
-    "mkdirp": "^1.0.4",
-    "vertex-react-app": "^0.1.0",
-    "webpack": "^5.23.0"
+    "mkdirp": "^1.0.4"
   }
 }
